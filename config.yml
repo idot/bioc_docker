@@ -54,3 +54,5 @@ containers: # FIXME (?) rename this to 'images' (?)
             parent: bioconductor/base
             biocViews:
                 - FlowCytometry
+    vbcfngs:
+            parent: bioconductor/base
